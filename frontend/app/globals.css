@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+button {
+    border-radius: 0.4rem;
+}
